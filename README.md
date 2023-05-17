@@ -1,2 +1,2 @@
-# Omnik-
-Get data from Omnik Inverter the easy way
+# Omnik-Inverter data
+Get data from Omnik Inverter the easy way tested with inverter serial 402...
