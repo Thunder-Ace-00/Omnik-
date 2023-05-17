@@ -3,6 +3,7 @@ Get data from Omnik Inverter the easy way tested with inverter serial 402...
 
 Prints the data like :
 
+ ```
  Inverter serial number   : NLBN402015123456
  Firmware version (main)  : ÿý5-V1.0-45882
  Firmware version (slave) : V1.5-736831
@@ -19,3 +20,4 @@ Prints the data like :
  Total yield              : 264.50 kWh
  Alerts                   : 0
  Last update              : 3 min ago
+ ```
