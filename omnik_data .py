@@ -50,8 +50,7 @@ class Client:
                 raise Exception(f'Failed to find {var} in response')
 
         web_data = vars_values['webData'].split(',')
-
-        # Assuming the fields are in the same order as in the original PHP code
+       
         # Use default value of 0 for missing fields
         vars_values['serial_number'] = str(web_data[0]) if web_data[0] else 'no data'
         vars_values['msvn']          = str(web_data[1]) if web_data[1] else 'no data'
